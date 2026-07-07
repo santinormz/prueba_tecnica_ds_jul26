@@ -61,8 +61,8 @@ Transformamos los datos transaccionales en "rasgos de personalidad" por tienda:
 ### Resultados del K-Means (K=4)
 Se forzó el algoritmo a encontrar 4 clústeres para mantener la viabilidad táctica de negocio. Para interpretar matemáticamente cómo la IA separó las tiendas, utilizamos **PCA (Análisis de Componentes Principales)**.
 
-![Segmentación PCA](ruta/a/tu/imagen/cluster_pca_explicable.png)
-*(Reemplaza el path con la ubicación de tu gráfico generado)*
+![Segmentación PCA](./images/cluster_pca_explicable.png)
+
 
 ### 🎯 Los 4 Perfiles Estratégicos (Accionabilidad)
 
