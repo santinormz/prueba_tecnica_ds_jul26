@@ -8,7 +8,7 @@ El enfoque principal fue transicionar de un análisis descriptivo a una solució
 
 ## 2. Stack Tecnológico y Herramientas
 
-* **Lenguaje:** Python 3.9+
+* **Lenguaje:** Python 3.13
 * **Procesamiento de Datos:** `pandas`, `numpy`
 * **Machine Learning:** `scikit-learn` (Regresión Lineal, K-Means, PCA, StandardScaler)
 * **Visualización:** `matplotlib`, `seaborn` (estilo corporativo para presentaciones de negocio)
@@ -43,7 +43,6 @@ Estos prompt fue usado para generar el codigo de esta etapa, compartiendo las ba
 
 ### Fase 3: Feature Engineering
 Para agrupar tiendas por su **comportamiento latente** (y no solo por su formato o región), se agregaron los datos a nivel sucursal y se crearon variables sintéticas de negocio:
-* `avg_ticket`: Relación rentabilidad/volumen.
 * `promo_lift`: Índice de elasticidad promocional (Ventas con Promo / Ventas sin Promo).
 * `peak_dependence`: Porcentaje de ingresos dependientes exclusivamente del Buen Fin y Navidad.
 * `avg_replenishment`: Presión promedio sobre la cadena de suministro local.
