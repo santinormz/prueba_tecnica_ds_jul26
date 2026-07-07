@@ -93,7 +93,7 @@ Para garantizar la reproducibilidad y el rigor estadístico, se ejecutó un pipe
 2. **Escalado:** `StandardScaler` para balancear las magnitudes de features financieros y volumétricos.
 3. **Modelado:** `K-Means` para agrupamiento y `PCA` para interpretabilidad del hiperplano multidimensional.
 
-> 📄 **Nota Técnica:** Para un desglose exhaustivo paso a paso del código, la limpieza de datos y la justificación matemática del uso de herramientas de IA, favor de consultar el archivo [`PROCESS.md`](./PROCESS.md) incluido en este repositorio.
+> 📄 **Nota Técnica:** Para un desglose exhaustivo paso a paso del código, la limpieza de datos y del uso de herramientas de IA, favor de consultar el archivo [`PROCESS.md`](./PROCESS.md) incluido en este repositorio.
 
 ---
 
